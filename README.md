@@ -24,7 +24,7 @@
 ## 📬 Let's Connect
 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sara-atef-b82879245/)
-- 📧 sara.salama90@gmail.com
+- 📧 saraa.salama90@gmail.com
 
 ---
 
