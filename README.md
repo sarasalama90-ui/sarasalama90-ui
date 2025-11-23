@@ -1,4 +1,4 @@
-h1 align="center">👋 Hi, I'm Sara Atef</h1>
+ Hi, I'm Sara Atef</h1>
 
 <p align="center">
 🎓 Business Administration Student | Future BIS Specialist <br>
